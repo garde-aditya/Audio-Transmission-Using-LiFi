@@ -32,6 +32,15 @@
 **Guide:** Prof. Sushma Patwardhan
 
 ---
+## 📸 Project Images
 
-## 📂 Folder Structure
+### 🔹 Project Setup & Team Work
+![Project Setup](project1.PNG)
+
+### 🔹 Transmitter & Receiver Circuit
+![Circuit Setup](project2.PNG)
+
+### 🔹 Final Working Model
+![Final Output](project3.PNG)
+
 
