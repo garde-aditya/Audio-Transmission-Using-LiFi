@@ -36,6 +36,12 @@ This project highlights the feasibility of **Li-Fi as a secure, RF-free alternat
 6. The recovered audio is played through a speaker.
 
 ---
+## 🏆 Achievements & Recognition
+
+- 📄 This mini-project was successfully **published as a technical paper at the college level**.
+- 🥇 The project received **First Prize in the Paper Publication Contest** conducted by the college.
+- 🎓 The recognition highlights the innovation, practical implementation, and technical relevance of the Li-Fi based audio transmission system.
+---
 
 ## 📸 Project Images
 
